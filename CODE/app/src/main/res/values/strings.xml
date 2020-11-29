@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">VideoG</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titleEn">Welcome to VideoG</string>
+    <string name="titleBn">ভিডিওজি তে স্বাগতম</string>
+
+    <!-- Drawer Menu English List -->
+    <string name="home">Home</string>
+    <string name="hits">Hits</string>
+    <string name="selected">Selected</string>
+    <string name="video_song">Video Song</string>
+    <string name="drama">Drama</string>
+    <string name="movie">Movie</string>
+    <string name="subscription">Subscription</string>
+
+    <string name="home_bn">হোম</string>
+    <string name="hits_bn">জনপ্রিয়</string>
+    <string name="selected_bn">নির্বাচিত গান</string>
+    <string name="video_song_bn">ভিডিও গান</string>
+    <string name="drama_bn">নাটক</string>
+    <string name="movie_bn">সিনেমা</string>
+    <string name="subscription_bn">সাবস্ক্রিপশন</string>
+
+    <string name="one">১</string>
+    <string name="two">২</string>
+    <string name="three">৩</string>
+    <string name="four">৪</string>
+    <string name="five">৫</string>
+    <string name="six">৬</string>
+    <string name="seven">৭</string>
+    <string name="eight">৮</string>
+    <string name="nine">৯</string>
+    <string name="zero">০</string>
+
+    <!-- Tab Values -->
+    <string name="song_tab_bn">ভিডিও গান</string>
+    <string name="drama_tab_bn">নাটক</string>
+    <string name="movie_tab_bn">সিনেমা</string>
+
+    <string name="song_tab">Video Song</string>
+    <string name="drama_tab">Natok</string>
+    <string name="movie_tab">Movies</string>
+
+    <string name="authorization_key">Basic YWRtaW46R3RlY2hWSURFT0c=</string>
+    <string name="image_url">http://vdog.radiogbd.com/</string>
+    <string name="tag">VideoG</string>
+
+    <string name="no_internet">No Internet</string>
+    <string name="http_error">HTTP Server Error</string>
+    <string name="bangla">বাংলা</string>
+
+    <string name="no_data">No Data</string>
+    <string name="no_data_bn">ডাটা নেই</string>
+
+    <integer name="sdk">23</integer>
+
+    <string name="default_resolution">240p</string>
+
+    <string-array name="quality_array">
+        <item>144p</item>
+        <item>240p</item>
+        <item>360p</item>
+        <item>480p</item>
+        <item>720p</item>
+        <item>1080p</item>
+    </string-array>
+
+    <string name="next">Next Track</string>
+    <string name="next_bn">পরবর্তী ভিডিও</string>
+
+    <string name="suggestion">You may also like</string>
+    <string name="suggestion_bn">আরো পছন্দনীয়</string>
+
+    <integer name="data_size">20</integer>
+
+    <string name="exit_dialog">Are you sure want to exit?</string>
+    <string name="exit_dialog_bn">আপনি কি বের হতে চান?</string>
+    <string name="yes">Yes</string>
+    <string name="yes_bn">হ্যাঁ</string>
+    <string name="no">No</string>
+    <string name="no_bn">না</string>
+
+    <string name="number_msg_en">If you want to watch any kind of Premium Content within this app, Operator subscription is required. Please provide your number below and Subscribe.</string>
+    <string name="number_msg_bn">ভিডিওজি অ্যাপের মাধ্যমে যেকোন ধরনের প্রিমিয়াম কন্টেন্ট দেখতে অপারেটর সাবস্ক্রিপশন প্রয়োজন। দয়া করে নিচে আপনার মোবাইল নাম্বারটি লিখুন আর সাবস্ক্রাইব করুন।</string>
+    <string name="number_msg_otp_en">If you want to watch any kind of Premium Content within this app, Operator subscription is required. Choose any package for Subscription.</string>
+    <string name="number_msg_otp_bn">ভিডিওজি অ্যাপের মাধ্যমে যেকোন ধরনের প্রিমিয়াম কন্টেন্ট দেখতে অপারেটর সাবস্ক্রিপশন প্রয়োজন। সাবস্ক্রিপশনের জন্য যেকোন প্যাকেজ চয়ন করুন।</string>
+    <string name="number_msg_otp_verify_en">If you want to watch any kind of Premium Content within this app, Operator subscription is required.</string>
+    <string name="number_msg_otp_verify_bn">ভিডিওজি অ্যাপের মাধ্যমে যেকোন ধরনের প্রিমিয়াম কন্টেন্ট দেখতে অপারেটর সাবস্ক্রিপশন প্রয়োজন।</string>
+    <string name="number_pin_bn">দয়া করে নিচে আপনার পিন নাম্বারটি লিখুন আর ডাউনলোড করুন।</string>
+    <string name="number_cancel_btn_en">Cancel</string>
+    <string name="number_cancel_btn_bn">বাতিল করুন</string>
+    <string name="number_submit_btn_en">Submit</string>
+    <string name="number_submit_btn_bn">সাবমিট করুন</string>
+
+
+    <string name="bkash_text_bn">ভিডিওজি  প্লাস সার্ভিসে আপনাকে স্বাগতম। আপনার মোবাইল নম্বরটি লিখুন এবং নিবন্ধন করুন। নিবন্ধনের পর সাবস্ক্রিপশনের জন্য বিকাশ নম্বর প্রযোজ্য। নিবন্ধিত হয়ে যাওয়ার পর ভিডিওজি প্লাস-এর সাবস্ক্রিপশন চার্জ আপনার বিকাশ নম্বর থেকে কেটে নেয়া হবে।</string>
+    <string name="bkash_text_en">Welcome to the VideoG Plus service. Please put on your mobile number and register. BKash number is required for subscription. After registration subscription charge for VideoG Plus service will be deducted from your bKash number.</string>
+
+    <string name="bk_on_message_en">OnMobile Portal - bKash \nBDT 49/Month.</string>
+    <string name="bk_on_message_bn">অনমোবাইল পোর্টাল - বিকাশ \n৪৯ টাকা/মাসিক</string>
+    <string name="check_subscription_en">Check Subscription</string>
+    <string name="check_subscription_bn">যাচাই সাবস্ক্রিপশন</string>
+
+    <string name="service_number_bn">সার্ভিস নাম্বারঃ</string>
+    <string name="service_number_en">Service Number:</string>
+    <string name="service_status_bn">সার্ভিস স্যাটাসঃ</string>
+    <string name="service_status_en">Service Status:</string>
+    <string name="status_on_bn">চালু</string>
+    <string name="status_on_en">On</string>
+    <string name="status_off_bn">বন্ধ</string>
+    <string name="status_off_en">Off</string>
+    <string name="rg_monthly_bn">প্যাকেজঃ রেডিওজি মাসিক</string>
+    <string name="rg_monthly_en">Package: RadioG Monthly</string>
+    <string name="button_off_bn">বন্ধ করুন</string>
+    <string name="button_off_en">Stop</string>
+
+
+    <string name="submit_en">Submit</string>
+    <string name="submit_bn">নিবন্ধন</string>
+    <string name="mobile_en">Mobile:</string>
+    <string name="mobile_bn">মোবাইলঃ</string>
+    <string name="package_en">Package:</string>
+    <string name="package_bn">প্যাকেজঃ</string>
+    <string name="subscription_confirmation_message_en">Are you sure want to choose the following plan?</string>
+    <string name="subscription_confirmation_message_bn">আপনি কি নিম্নোক্ত প্লান বাছাই করতে চান?</string>
+    <string name="price_msg_en">Operator and Price: </string>
+    <string name="price_msg_bn">অপারেটর এবং মূল্যঃ </string>
+
+    <string name="gp_message_en">Grameenphone \nSubscription without autorenewal</string>
+    <string name="gp_message_bn">গ্রামীণফোন \nসাবস্ক্রিপশন। অটোরিনিউয়াল নয়।</string>
+    <string name="gp_daily_message_en">Charge: 2.37Tk (including VAT, SD and SC) for 1 Day only. No Renewal.</string>
+    <string name="gp_daily_message_bn">২.৩৭টাকা+(ভ্যাট + এসডি + এসসি) - মেয়াদ ১ দিন (অটোরিনিউয়াল প্রযোজ্য নয়)</string>
+    <string name="gp_weekly_message_en">Charge: 6.67Tk (including VAT, SD and SC) for 7 Days only. No Renewal.</string>
+    <string name="gp_weekly_message_bn">৬.৬৭টাকা+(ভ্যাট + এসডি + এসসি) - মেয়াদ ৭ দিন (অটোরিনিউয়াল প্রযোজ্য নয়)</string>
+    <string name="gp_month_message_en">Charge: 26.65Tk (including VAT, SD and SC) for 30 Days only. No Renewal.</string>
+    <string name="gp_month_message_bn">২৬.৬৫টাকা+(ভ্যাট + এসডি + এসসি) - মেয়াদ ৩০ দিন (অটোরিনিউয়াল প্রযোজ্য নয়)</string>
+    <string name="bl_rb_daily_en">Banglalink \nDaily 2TK+(VAT+SD+SC), with autorenewal.</string>
+    <string name="bl_rb_daily_bn">বাংলালিংক \nপ্রতিদিন ২ টাকা+( ভ্যাট + এসডি +এসসি ), অটোরিনিউয়াল</string>
+    <string name="bl_rb_week_en">Banglalink \nWeekly 5TK+(VAT+SD+SC), with autorenewal.</string>
+    <string name="bl_rb_week_bn">বাংলালিংক \nসপ্তাহ ৫ টাকা+( ভ্যাট + এসডি +এসসি ), অটোরিনিউয়াল</string>
+    <string name="bl_rb_month_en">Banglalink \nMonthy 20TK+(VAT+SD+SC), with autorenewal.</string>
+    <string name="bl_rb_month_bn">বাংলালিংক \nমাসিক ২ টাকা+( ভ্যাট + এসডি +এসসি ), অটোরিনিউয়াল</string>
+    <string name="tag_daily">DAILY</string>
+    <string name="tag_weekly">WEEK</string>
+    <string name="tag_monthly">MONTH</string>
+
+    <string name="otp_msg_en"><!--Enter code that is sent to your mobile.-->Enter OTP for Subscription</string>
+    <string name="otp_msg_bn">আপনার মোবাইলে পাঠানো কোডটি দিন</string>
+    <string name="otp_success_bn">OTP Sent</string>
+    <string name="unsub_success_en">Unsubscribe Successfully Done </string>
+    <string name="unsub_success_bn">আনসাবস্ক্রাইব সফলভাবে সম্পন্ন হয়েছে</string>
+
+
+    <string name="bl_daily_pac_en">Banglalink (Daily)</string>
+    <string name="bl_daily_pac_bn">বাংলালিংক (দৈনন্দিন)</string>
+    <string name="bl_weekly_pac_en">Banglalink (Weekly)</string>
+    <string name="bl_weekly_pac_bn">বাংলালিংক (সাপ্তাহিক)</string>
+    <string name="bl_monthly_pac_en">Banglalink (Monthly)</string>
+    <string name="bl_monthly_pac_bn">বাংলালিংক (মাসিক)</string>
+
+    <string name="gp_daily_pac_en">GP (Daily)</string>
+    <string name="gp_daily_pac_bn">গ্রামিনফোন (দৈনন্দিন)</string>
+    <string name="gp_weekly_pac_en">GP (Weekly)</string>
+    <string name="gp_weekly_pac_bn">গ্রামিনফোন (সাপ্তাহিক)</string>
+    <string name="gp_monthly_pac_en">GP (Monthly)</string>
+    <string name="gp_monthly_pac_bn">গ্রামিনফোন (মাসিক)</string>
+
+    <string name="history_pac_en">Package:</string>
+    <string name="history_pac_bn">প্যাকেজঃ</string>
+    <string name="history_status_en">Status:</string>
+    <string name="history_status_bn">অবস্থাঃ</string>
+    <string name="history_start_en">Start Date:</string>
+    <string name="history_start_bn">শুরুর তারিখঃ</string>
+    <string name="history_endc_en">End Date:</string>
+    <string name="history_end_bn">সমাপ্তির তারিখঃ</string>
+    <string name="history_title_en">Subsription History</string>
+    <string name="history_title_bn">সাবস্ক্রিপশন ইতিহাস</string>
+
+
+    <string name="tag_gp">GP</string>
+    <string name="tag_bl">BL</string>
+    <string-array name="tags">
+        <item>@string/tag_gp</item>
+        <item>@string/tag_bl</item>
+    </string-array>
+</resources>
